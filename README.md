@@ -50,8 +50,8 @@ Licensed by major regulatory bodies and associated with institutions such as the
 ---
 
 ## 📍 Contact  
-- 📞 **UAN**: +92‑42‑111‑900‑777  
-- 📧 **Email**: hello@sospakistan.net  
+- 📞 **UAN**: +92-42-111-900-777  
+- 📧 **Email**: islamabad@sospakistan.com  
 - 🏢 **Corporate Office**: 9th Floor, Green Trust Tower, Jinnah Avenue, Blue Area, Islamabad  
 
 ---
