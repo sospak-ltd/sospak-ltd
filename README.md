@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://th.bing.com/th/id/OIP.oHwFWRQUTPD5UWvHifai6QAAAA?w=188&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3" alt="SOS Pakistan Banner" width="50%" />
+  <img src="https://github.com/sospak-ltd/sospak-ltd/blob/main/Favicon.png" alt="SOS Pakistan Banner" width="50%" />
 </p>
 
 <h1 align="center">🔐 Security Organizing System Pakistan (SOS Pakistan)</h1>  
