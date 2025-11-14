@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://th.bing.com/th/id/OIP.oHwFWRQUTPD5UWvHifai6QAAAA?w=188&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3" alt="SOS Pakistan Banner" width="100%" />
+  <img src="https://th.bing.com/th/id/OIP.oHwFWRQUTPD5UWvHifai6QAAAA?w=188&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3" alt="SOS Pakistan Banner" width="50%" />
 </p>
 
 <h1 align="center">🔐 Security Organizing System Pakistan (SOS Pakistan)</h1>  
@@ -14,11 +14,11 @@
 ---
 
 ## 🏢 About SOS Pakistan  
-Security Organizing System Pakistan (SOS Pakistan) is a pioneering security company founded in **1994**. :contentReference[oaicite:0]{index=0}  
-We deliver end‑to‑end security services: **Static & Mobile Security**, **Cash‑in‑Transit**, **ATM Replenishment**, **Currency Management**, and **Foreign Currency / Valuables Import‑Export**. :contentReference[oaicite:1]{index=1}  
-Our workforce is highly trained — including ex-servicemen — and our operations are backed by strong risk-management and avoidance‑based security strategies. :contentReference[oaicite:2]{index=2}  
-We operate across **48+ cities in Pakistan**, with our head office in Multan and a corporate office in Islamabad. :contentReference[oaicite:3]{index=3}  
-Licensed by major regulatory bodies and associated with institutions such as the Pakistan Banks’ Association. :contentReference[oaicite:4]{index=4}  
+Security Organizing System Pakistan (SOS Pakistan) is a pioneering security company founded in **1994**.  
+We deliver end‑to‑end security services: **Static & Mobile Security**, **Cash‑in‑Transit**, **ATM Replenishment**, **Currency Management**, and **Foreign Currency / Valuables Import‑Export**.  
+Our workforce is highly trained — including ex-servicemen — and our operations are backed by strong risk-management and avoidance‑based security strategies.  
+We operate across **48+ cities in Pakistan**, with our head office in Multan and a corporate office in Islamabad.  
+Licensed by major regulatory bodies and associated with institutions such as the Pakistan Banks’ Association.  
 
 ---
 
@@ -26,33 +26,33 @@ Licensed by major regulatory bodies and associated with institutions such as the
 
 | Service | Description |
 |---|---|
-| **Security Guarding** | Static & mobile guards (armed & unarmed), ex‑servicemen, trained supervisors. :contentReference[oaicite:5]{index=5} |
-| **Cash‑in‑Transit (CIT)** | Secure transport of cash and valuables via armored fleet. :contentReference[oaicite:6]{index=6} |
-| **Currency Management** | Cash‑processing centers (CPC) for counting, verifying, and bundling. :contentReference[oaicite:7]{index=7} |
-| **ATM Replenishment** | Refilling and reconciling ATM cash across the country. :contentReference[oaicite:8]{index=8} |
-| **Import / Export of Valuables** | Secure handling of foreign currency, traveler’s cheques, precious metals. :contentReference[oaicite:9]{index=9} |
-| **Close Protection / Protocol** | Personal protection, VIP security, convoy, and airport protocol services. :contentReference[oaicite:10]{index=10} |
+| **Security Guarding** | Static & mobile guards (armed & unarmed), ex‑servicemen, trained supervisors. |
+| **Cash‑in‑Transit (CIT)** | Secure transport of cash and valuables via armored fleet. |
+| **Currency Management** | Cash‑processing centers (CPC) for counting, verifying, and bundling. |
+| **ATM Replenishment** | Refilling and reconciling ATM cash across the country. |
+| **Import / Export of Valuables** | Secure handling of foreign currency, traveler’s cheques, precious metals. |
+| **Close Protection / Protocol** | Personal protection, VIP security, convoy, and airport protocol services. |
 
 ---
 
 ## 📈 Milestones & Growth  
-- **1994**: Founded in Multan. :contentReference[oaicite:11]{index=11}  
-- **2017**: Introduced Cash-in-Transit (CIT) business. :contentReference[oaicite:12]{index=12}  
-- **2019**: Launched Cash-Processing Centers (CPCs). :contentReference[oaicite:13]{index=13}  
-- **2021**: Expanded into Foreign Currency & Valuables Import/Export. :contentReference[oaicite:14]{index=14}  
+- **1994**: Founded in Multan.  
+- **2017**: Introduced Cash-in-Transit (CIT) business.  
+- **2019**: Launched Cash-Processing Centers (CPCs).  
+- **2021**: Expanded into Foreign Currency & Valuables Import/Export.  
 
 ---
 
 ## 👤 Leadership & Key People  
-- **Muhammad Irshad Ali** — Chairman / CEO. :contentReference[oaicite:15]{index=15}  
-- **Headquarters**: Multan; **Corporate Office**: Islamabad :contentReference[oaicite:16]{index=16}  
+- **Muhammad Irshad Ali** — Chairman / CEO.  
+- **Headquarters**: Multan; **Corporate Office**: Islamabad  
 
 ---
 
 ## 📍 Contact  
-- 📞 **UAN**: +92‑42‑111‑900‑777 :contentReference[oaicite:17]{index=17}  
-- 📧 **Email**: hello@sospakistan.net :contentReference[oaicite:18]{index=18}  
-- 🏢 **Corporate Office**: 9th Floor, Green Trust Tower, Jinnah Avenue, Blue Area, Islamabad :contentReference[oaicite:19]{index=19}  
+- 📞 **UAN**: +92‑42‑111‑900‑777  
+- 📧 **Email**: hello@sospakistan.net  
+- 🏢 **Corporate Office**: 9th Floor, Green Trust Tower, Jinnah Avenue, Blue Area, Islamabad  
 
 ---
 
@@ -72,9 +72,9 @@ Licensed by major regulatory bodies and associated with institutions such as the
 
 ## 📊 GitHub Analytics  
 <div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" alt="GitHub Stats" />  
-  <img src="https://streak‑stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=00000000" alt="GitHub Streak" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Top Languages" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=sospak-ltd&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" alt="GitHub Stats" />  
+  <img src="https://streak-stats.demolab.com?user=sospak-ltd&theme=radical&hide_border=true&background=00000000" alt="GitHub Streak" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sospak-ltd&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Top Languages" />  
 </div>
 
 ---
