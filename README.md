@@ -8,7 +8,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Founded-1994-blue?style=for-the-badge" alt="Founded 1994" />  
   <img src="https://img.shields.io/badge/Employees-10,000%2B-green?style=for-the-badge" alt="10,000+ employees" />  
-  <img src="https://img.shields.io/badge/ISO-9001-Certified-brightgreen?style=for-the-badge" alt="ISO 9001" />  
 </p>
 
 ---
