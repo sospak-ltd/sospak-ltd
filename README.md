@@ -13,6 +13,19 @@
 
 ---
 
+## 🔗 Navigation
+<p align="center">
+  <a href="#-about-us">About</a> • 
+  <a href="#-core-services">Services</a> • 
+  <a href="#-milestones">Milestones</a> • 
+  <a href="#-leadership">Leadership</a> • 
+  <a href="#-contact">Contact</a> • 
+  <a href="#-vision--mission">Vision & Mission</a> • 
+  <a href="#-github-analytics">GitHub Stats</a>
+</p>
+
+---
+
 ## 🏢 About Us
 **SOS Pakistan**, established in **1994**, is the **pioneer in security and currency-management solutions** across Pakistan.  
 
@@ -31,7 +44,6 @@ Our team includes **highly trained professionals and ex-servicemen**, operating 
 ---
 
 ## 💼 Core Services
-
 | Service | Highlights |
 |---|---|
 | **Security Guarding** | Armed & unarmed, ex-servicemen, trained supervisors. |
@@ -44,22 +56,18 @@ Our team includes **highly trained professionals and ex-servicemen**, operating 
 ---
 
 ## 📈 Milestones
-
 <div align="center">
-
 | Year | Achievement |
 |---|---|
 | 1994 | Founded in Multan |
 | 2017 | Launched Cash-in-Transit (CIT) |
 | 2019 | Opened Cash-Processing Centers (CPCs) |
 | 2021 | Expanded into Foreign Currency & Valuables Import/Export |
-
 </div>
 
 ---
 
 ## 👤 Leadership
-
 <div align="center">
 **Muhammad Irshad Ali** — Chairman / CEO  
 Headquarters: Multan | Corporate Office: Islamabad
@@ -68,7 +76,6 @@ Headquarters: Multan | Corporate Office: Islamabad
 ---
 
 ## 📍 Contact
-
 <div align="center">
 📞 **UAN**: +92-42-111-900-777 | 📧 **Email**: islamabad@sospakistan.com  
 🏢 **Corporate Office**: 9th Floor, Green Trust Tower, Jinnah Avenue, Blue Area, Islamabad
@@ -77,18 +84,14 @@ Headquarters: Multan | Corporate Office: Islamabad
 ---
 
 ## 🎯 Vision & Mission
-
 <div align="center">
-
 **Mission:** Deliver state-of-the-art security & currency solutions with trust and efficiency.  
 **Vision:** Be the most trusted, innovative, and reliable security partner in Pakistan.
-
 </div>
 
 ---
 
 ## 🌐 Purpose of This GitHub Repo
-
 - Document **internal tools & dashboards** (CIT systems, vault, audit, risk)  
 - Share **automation scripts** for cash handling, incident management, reporting  
 - Publish **company architecture**, SOPs, compliance docs, and guidelines  
@@ -97,7 +100,6 @@ Headquarters: Multan | Corporate Office: Islamabad
 ---
 
 ## 📊 GitHub Analytics
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sospak-ltd&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" />  
   <img src="https://streak-stats.demolab.com?user=sospak-ltd&theme=radical&hide_border=true&background=00000000" />  
