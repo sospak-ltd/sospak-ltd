@@ -70,6 +70,24 @@ Headquartered in **Multan** with a corporate office in **Islamabad**, we are lic
 **Vision:** Be the most trusted, innovative, and reliable security partner in Pakistan.
 
 ---
+---
+
+## 🏛 Our Clients
+
+**Our clients reflect the trust we’ve built across Pakistan:**  
+
+### Government Sector
+`PTV Home` `PTV Network` `PTA` `PEMRA` `FBR` `NFSA` `Irrigation Department` `State Bank of Pakistan` `Wafaqi Mohtasib`
+
+### Banks
+`Bank of Khyber` `First Women Bank` `Faysal Bank` `Dubai Islamic Bank` `Allied Bank` `Micro Finance Bank` `Habib Bank LTD` `Bank Alfalah` `Bank Al Habib` `Bank of Punjab` `NBP` `UBL` `UBank` `Summit Bank` `Soneri Bank` `Silk Bank` `MCB Bank LTD` `Meezan Bank`
+
+### Institutions & Companies
+`MM Coaching Academy` `Dawn Bread` `AWN Group` `Zamoung KOR` `World Learning` `VIVO Smart Phone` `TUSDEC` `The Kaizen Company` `S Tile` `Solidar` `Qatar Charity` `Jhpiego` `CRJ` `Nishat Linen` `NAFA Foundation` `Muhammadi` `Miraj Cinemas` `Midas Communications Pakistan` `Khawaja Minerals Industries (PVT) LTD` `Allied Medical Center` `IBCC` `Sukkur IBA University` `HKB` `Foreign Service Institute` `SCANS` `Fatmid Foundation` `Express Movers` `Enercon` `Digicom` `DAI` `Contour Software` `CGICOP` `Capricorn Associates` `ATV` `Alternative Energy Development Board`
+
+---
+
+---
 
 ## 🌐 Purpose of This GitHub Repo  
 
