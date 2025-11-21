@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="SOS Pakistan Logo" width="200" />
+  <img src="https://github.com/sospak-ltd/sospak-ltd/blob/main/Favicon.png" alt="SOS Pakistan Banner" width="200" />
 </p>
 
 <h1 align="center">🔐 Security Organizing System Pakistan (SOS Pakistan)</h1>
@@ -9,27 +9,13 @@
 
 ## 🔗 Navigation
 <p align="center">
-  <a href="#-about-us" style="text-decoration:none">
-    <kbd>About</kbd>
-  </a> &nbsp;
-  <a href="#-core-services" style="text-decoration:none">
-    <kbd>Services</kbd>
-  </a> &nbsp;
-  <a href="#-milestones" style="text-decoration:none">
-    <kbd>Milestones</kbd>
-  </a> &nbsp;
-  <a href="#-leadership" style="text-decoration:none">
-    <kbd>Leadership</kbd>
-  </a> &nbsp;
-  <a href="#-contact" style="text-decoration:none">
-    <kbd>Contact</kbd>
-  </a> &nbsp;
-  <a href="#-vision--mission" style="text-decoration:none">
-    <kbd>Vision & Mission</kbd>
-  </a> &nbsp;
-  <a href="#-github-analytics" style="text-decoration:none">
-    <kbd>GitHub Stats</kbd>
-  </a>
+  <a href="#-about-us" style="text-decoration:none"><kbd>About</kbd></a> &nbsp;
+  <a href="#-core-services" style="text-decoration:none"><kbd>Services</kbd></a> &nbsp;
+  <a href="#-milestones" style="text-decoration:none"><kbd>Milestones</kbd></a> &nbsp;
+  <a href="#-leadership" style="text-decoration:none"><kbd>Leadership</kbd></a> &nbsp;
+  <a href="#-contact" style="text-decoration:none"><kbd>Contact</kbd></a> &nbsp;
+  <a href="#-vision--mission" style="text-decoration:none"><kbd>Vision & Mission</kbd></a> &nbsp;
+  <a href="#-github-analytics" style="text-decoration:none"><kbd>GitHub Stats</kbd></a>
 </p>
 
 ---
