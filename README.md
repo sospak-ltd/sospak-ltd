@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/sospak-ltd/sospak-ltd/blob/main/Favicon.png" alt="SOS Pakistan Banner" width="50%" />
+  <img src="https://github.com/sospak-ltd/sospak-ltd/blob/main/Favicon.png" alt="SOS Pakistan Banner" width="35%" />
 </p>
 
 <h1 align="center">🔐 Security Organizing System Pakistan (SOS Pakistan)</h1>
@@ -13,80 +13,95 @@
 
 ---
 
-## 🏢 About SOS Pakistan  
-**Security Organizing System Pakistan (SOS Pakistan)**, founded in **1994**, is a pioneering security company delivering **end-to-end security & currency-management solutions**:  
+## 🏢 About Us
+**SOS Pakistan**, established in **1994**, is the **pioneer in security and currency-management solutions** across Pakistan.  
 
-- **Static & Mobile Security**  
-- **Cash-in-Transit (CIT)**  
-- **ATM Replenishment**  
-- **Currency Management**  
-- **Foreign Currency / Valuables Import-Export**  
+We provide:  
 
-Our highly trained workforce includes **ex-servicemen**, backed by **risk-management strategies**, operating across **48+ cities in Pakistan**.  
-Headquartered in **Multan** with a corporate office in **Islamabad**, we are licensed by major regulatory bodies and associated with institutions like the **Pakistan Banks’ Association**.
+<div align="center">
+  <img src="https://img.shields.io/badge/Static%20%26%20Mobile%20Security-ff69b4?style=for-the-badge&logo=shield" />  
+  <img src="https://img.shields.io/badge/Cash-in-Transit-00bfff?style=for-the-badge&logo=money" />  
+  <img src="https://img.shields.io/badge/ATM%20Replenishment-32cd32?style=for-the-badge&logo=atm" />  
+  <img src="https://img.shields.io/badge/Currency%20Management-ff8c00?style=for-the-badge&logo=bank" />  
+  <img src="https://img.shields.io/badge/Import%2FExport-8a2be2?style=for-the-badge&logo=box" />
+</div>
+
+Our team includes **highly trained professionals and ex-servicemen**, operating across **48+ cities** with head office in **Multan** and corporate office in **Islamabad**.
 
 ---
 
 ## 💼 Core Services
 
-| Service | Description |
+| Service | Highlights |
 |---|---|
-| **Security Guarding** | Static & mobile guards (armed & unarmed), ex‑servicemen, trained supervisors. |
-| **Cash-in-Transit (CIT)** | Secure transport of cash and valuables via armored fleet. |
-| **Currency Management** | Cash-processing centers (CPC) for counting, verifying, and bundling. |
-| **ATM Replenishment** | Refilling and reconciling ATM cash nationwide. |
-| **Import / Export of Valuables** | Secure handling of foreign currency, traveller’s cheques, precious metals. |
-| **Close Protection / Protocol** | Personal protection, VIP security, convoy, and airport protocol services. |
+| **Security Guarding** | Armed & unarmed, ex-servicemen, trained supervisors. |
+| **Cash-in-Transit (CIT)** | Secure armored transport for cash & valuables. |
+| **Currency Management** | Cash-processing centers (CPCs) for counting, verifying, bundling. |
+| **ATM Replenishment** | Nationwide ATM cash refilling & reconciliation. |
+| **Import/Export of Valuables** | Foreign currency, traveler’s cheques, precious metals. |
+| **Close Protection / Protocol** | VIP security, convoy, airport protocol services. |
 
 ---
 
-## 📈 Milestones & Growth  
+## 📈 Milestones
 
-- **1994** – Founded in Multan  
-- **2017** – Introduced Cash-in-Transit (CIT) business  
-- **2019** – Launched Cash-Processing Centers (CPCs)  
-- **2021** – Expanded into Foreign Currency & Valuables Import/Export  
+<div align="center">
 
----
+| Year | Achievement |
+|---|---|
+| 1994 | Founded in Multan |
+| 2017 | Launched Cash-in-Transit (CIT) |
+| 2019 | Opened Cash-Processing Centers (CPCs) |
+| 2021 | Expanded into Foreign Currency & Valuables Import/Export |
 
-## 👤 Leadership  
-
-- **Muhammad Irshad Ali** — Chairman / CEO  
-- **Headquarters**: Multan  
-- **Corporate Office**: Islamabad  
+</div>
 
 ---
 
-## 📍 Contact  
+## 👤 Leadership
 
-- 📞 **UAN**: +92-42-111-900-777  
-- 📧 **Email**: islamabad@sospakistan.com  
-- 🏢 **Corporate Office**: 9th Floor, Green Trust Tower, Jinnah Avenue, Blue Area, Islamabad  
+<div align="center">
+**Muhammad Irshad Ali** — Chairman / CEO  
+Headquarters: Multan | Corporate Office: Islamabad
+</div>
 
 ---
 
-## 🎯 Vision & Mission  
+## 📍 Contact
 
-**Mission:** Deliver state-of-the-art security & currency solutions to help businesses operate with trust, efficiency, and protection.  
+<div align="center">
+📞 **UAN**: +92-42-111-900-777 | 📧 **Email**: islamabad@sospakistan.com  
+🏢 **Corporate Office**: 9th Floor, Green Trust Tower, Jinnah Avenue, Blue Area, Islamabad
+</div>
+
+---
+
+## 🎯 Vision & Mission
+
+<div align="center">
+
+**Mission:** Deliver state-of-the-art security & currency solutions with trust and efficiency.  
 **Vision:** Be the most trusted, innovative, and reliable security partner in Pakistan.
 
+</div>
+
 ---
 
-## 🌐 Purpose of This GitHub Repo  
+## 🌐 Purpose of This GitHub Repo
 
 - Document **internal tools & dashboards** (CIT systems, vault, audit, risk)  
-- Share **automation scripts** for cash handling, incident management, and reporting  
-- Publish **company architecture**, SOPs, compliance docs, and technical guidelines  
+- Share **automation scripts** for cash handling, incident management, reporting  
+- Publish **company architecture**, SOPs, compliance docs, and guidelines  
 - Collaborate with tech partners on **secure, scalable security software**  
 
 ---
 
-## 📊 GitHub Analytics  
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sospak-ltd&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" alt="GitHub Stats" />  
-  <img src="https://streak-stats.demolab.com?user=sospak-ltd&theme=radical&hide_border=true&background=00000000" alt="GitHub Streak" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sospak-ltd&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sospak-ltd&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" />  
+  <img src="https://streak-stats.demolab.com?user=sospak-ltd&theme=radical&hide_border=true&background=00000000" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sospak-ltd&layout=compact&theme=radical&hide_border=true&bg_color=00000000" />
 </div>
 
 ---
