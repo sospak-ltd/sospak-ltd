@@ -39,6 +39,27 @@ Headquartered in **Multan** with a corporate office in **Islamabad**, we are lic
 
 ---
 
+## 🏢 Business Process Outsourcing (BPO) Services
+
+With **30 years of experience** in the services industry, SOS Pakistan has established itself as a trusted partner in workforce management. Our **BPO Manpower Solutions** specialize in delivering tailored staffing solutions across various sectors, matching the right talent with the right opportunities to drive growth and success for our clients.  
+
+### 💼 Our BPO Services
+
+- **Temporary Staffing:** Quickly fill short-term positions for seasonal demands or special projects.  
+- **Permanent Placement:** Identify long-term candidates who fit your company culture and goals.  
+- **Contract-to-Hire:** Evaluate candidates temporarily before permanent hiring.  
+- **Executive Search:** Source top-level executives to drive strategic initiatives.  
+- **Managed Services Provider (MSP):** Outsource entire staffing management for efficiency and cost reduction.  
+
+### 🎯 Why Choose Our BPO Services?
+
+- **Industry Expertise** – Deep knowledge across sectors for targeted staffing.  
+- **Personalized Service** – Candidates who fit seamlessly into your company culture.  
+- **Proven Track Record** – Successful placements and satisfied clients.  
+- **Advanced Technology** – Data-driven insights for efficient recruitment.  
+
+---
+
 ## 📈 Milestones & Growth  
 
 - **1994** – Founded in Multan  
@@ -70,7 +91,6 @@ Headquartered in **Multan** with a corporate office in **Islamabad**, we are lic
 **Vision:** Be the most trusted, innovative, and reliable security partner in Pakistan.
 
 ---
----
 
 ## 🏛 Our Clients
 
@@ -84,8 +104,6 @@ Headquartered in **Multan** with a corporate office in **Islamabad**, we are lic
 
 ### Institutions & Companies
 `MM Coaching Academy` `Dawn Bread` `AWN Group` `Zamoung KOR` `World Learning` `VIVO Smart Phone` `TUSDEC` `The Kaizen Company` `S Tile` `Solidar` `Qatar Charity` `Jhpiego` `CRJ` `Nishat Linen` `NAFA Foundation` `Muhammadi` `Miraj Cinemas` `Midas Communications Pakistan` `Khawaja Minerals Industries (PVT) LTD` `Allied Medical Center` `IBCC` `Sukkur IBA University` `HKB` `Foreign Service Institute` `SCANS` `Fatmid Foundation` `Express Movers` `Enercon` `Digicom` `DAI` `Contour Software` `CGICOP` `Capricorn Associates` `ATV` `Alternative Energy Development Board`
-
----
 
 ---
 
