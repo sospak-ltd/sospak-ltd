@@ -1,43 +1,41 @@
 <p align="center">
-  <img src="https://github.com/sospak-ltd/sospak-ltd/blob/main/Favicon.png" alt="SOS Pakistan Banner" width="35%" />
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="SOS Pakistan Logo" width="200" />
 </p>
 
 <h1 align="center">🔐 Security Organizing System Pakistan (SOS Pakistan)</h1>
 <h3 align="center">Leading Security & Currency‑Management Solutions Provider in Pakistan</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Founded-1994-blue?style=for-the-badge" alt="Founded 1994" />  
-  <img src="https://img.shields.io/badge/Employees-10,000%2B-green?style=for-the-badge" alt="10,000+ employees" />  
-  <img src="https://img.shields.io/badge/ISO-9001-Certified-brightgreen?style=for-the-badge" alt="ISO 9001" />  
-</p>
-
 ---
 
 ## 🔗 Navigation
 <p align="center">
-  <a href="#-about-us">About</a> • 
-  <a href="#-core-services">Services</a> • 
-  <a href="#-milestones">Milestones</a> • 
-  <a href="#-leadership">Leadership</a> • 
-  <a href="#-contact">Contact</a> • 
-  <a href="#-vision--mission">Vision & Mission</a> • 
-  <a href="#-github-analytics">GitHub Stats</a>
+  <a href="#-about-us" style="text-decoration:none">
+    <kbd>About</kbd>
+  </a> &nbsp;
+  <a href="#-core-services" style="text-decoration:none">
+    <kbd>Services</kbd>
+  </a> &nbsp;
+  <a href="#-milestones" style="text-decoration:none">
+    <kbd>Milestones</kbd>
+  </a> &nbsp;
+  <a href="#-leadership" style="text-decoration:none">
+    <kbd>Leadership</kbd>
+  </a> &nbsp;
+  <a href="#-contact" style="text-decoration:none">
+    <kbd>Contact</kbd>
+  </a> &nbsp;
+  <a href="#-vision--mission" style="text-decoration:none">
+    <kbd>Vision & Mission</kbd>
+  </a> &nbsp;
+  <a href="#-github-analytics" style="text-decoration:none">
+    <kbd>GitHub Stats</kbd>
+  </a>
 </p>
 
 ---
 
 ## 🏢 About Us
 **SOS Pakistan**, established in **1994**, is the **pioneer in security and currency-management solutions** across Pakistan.  
-
-We provide:  
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Static%20%26%20Mobile%20Security-ff69b4?style=for-the-badge&logo=shield" />  
-  <img src="https://img.shields.io/badge/Cash-in-Transit-00bfff?style=for-the-badge&logo=money" />  
-  <img src="https://img.shields.io/badge/ATM%20Replenishment-32cd32?style=for-the-badge&logo=atm" />  
-  <img src="https://img.shields.io/badge/Currency%20Management-ff8c00?style=for-the-badge&logo=bank" />  
-  <img src="https://img.shields.io/badge/Import%2FExport-8a2be2?style=for-the-badge&logo=box" />
-</div>
 
 Our team includes **highly trained professionals and ex-servicemen**, operating across **48+ cities** with head office in **Multan** and corporate office in **Islamabad**.
 
